@@ -13,7 +13,7 @@ This tool takes a list of card attributes under the form of a json then performs
 
 ### Usage
 
-#### Specifics 
+### Specifics 
 ##### Validating parameters
 
 #### Generating image
